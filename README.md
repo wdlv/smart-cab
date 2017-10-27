@@ -19,4 +19,8 @@ In a terminal or command window, navigate to the top-level project directory `sm
 
 This will run the `agent.py` file and execute your agent code.
 
+### Demo
+
+![demo](https://github.com/woodenleaves/Smart_cab/raw/master/success_trials.png)
+
 ### For more information, check report.pdf
